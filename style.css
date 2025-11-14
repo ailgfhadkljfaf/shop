@@ -213,3 +213,7 @@ width: 100%;
 background-color: #666;
 
 }
+
+.smaller_text p {
+    font-size: 15px;
+}
